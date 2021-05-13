@@ -354,7 +354,7 @@ contract Vaporwave is Context, IBEP20, Ownable {
     _name = "Vaporwave";
     _symbol = "VAPORWAVE";
     _decimals = 18;
-    _totalSupply = 10000000000;
+    _totalSupply = 10000000000 * 10 ** 18;
     _balances[msg.sender] = _totalSupply;
 
     emit Transfer(address(0), msg.sender, _totalSupply);
