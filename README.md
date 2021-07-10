@@ -16,9 +16,5 @@ Whenever someone trades VAPORWAVE, the trader pays a 0.2% fee, of which 0.17% is
 # Community Distribution 🪂
 VAPORWAVE Tokens are regularly distributed to our holders whenever we reach a new important step in our development process (number of holders, twitter followers, etc..)
 
-# Fair Launch
-* Total Supply : 10,000,000,000
-* 1ST BURN : 20% (2,000,000,000)
-* DEV & FOUNDERS : 5% (500,000,000) 
-* IDO & AIRDROPS : 2,5% (250,000,000)
-* Initial Circulating Supply : 1% (100,000,000)
+# Tokenomics
+https://docs.vaporwavecoin.com/informations/tokenomics
